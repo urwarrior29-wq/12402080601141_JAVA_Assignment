@@ -4,15 +4,17 @@
 
 \# Java Programming Assignments
 
-\---
-
 
 
 \## About This Repository
 
 
 
-This repository includes different Java programs that I created while learning:
+This repository contains Java programs that I created while learning programming concepts.
+
+
+
+\### Topics Covered
 
 
 
@@ -56,7 +58,7 @@ The main goal of this repository is:
 
 \* To improve problem-solving skills
 
-\* To complete my academic assignments
+\* To complete academic assignments
 
 
 
@@ -72,7 +74,7 @@ The main goal of this repository is:
 
 \* OOP Concepts
 
-\* Swing (for GUI)
+\* Swing (GUI)
 
 \* Multithreading
 
@@ -90,17 +92,21 @@ The main goal of this repository is:
 
 
 
-1\. Download or clone the repository
+Clone the repository:
 
-2\. Open the project in any IDE ( VS Code)
+git clone <your-repo-link>
 
-3\. Compile the Java file:
 
-&#x20;  javac FileName.java
 
-4\. Run the program:
+Compile the program:
 
-&#x20;  java FileName
+javac FileName.java
+
+
+
+Run the program:
+
+java FileName
 
 
 
@@ -112,15 +118,9 @@ The main goal of this repository is:
 
 
 
-I am a IT student currently learning Java and Data Structures.
+I am a CSE/IT student currently learning Java and Data Structures.
 
-
-
-
-
-\---
-
-
+This repository is part of my learning journey.
 
 
 
